@@ -1,0 +1,33 @@
+.button {
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  background-color: black;
+  color: white;
+}
+
+.wrapper {
+  height: 300px;
+  width: 300px;
+  background-color: #d9d9d9;
+  margin: 0 auto;
+}
+
+.block {
+  background-color: #e6e6e6;
+  border: solid 0.1px;
+}
+
+.bones {
+  table-align: center;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: #bfbfbf;
+  border-collapse: collapse;
+}
